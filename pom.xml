@@ -7,12 +7,12 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <parent>
-        <groupId>com.lc.ibps.parent</groupId>
-        <artifactId>ibps-starter-parent</artifactId>
-        <version>3.3.3-LC.RELEASE</version>
-        <relativePath/>
-    </parent>
+   <!--  <parent> -->
+       <!--    <groupId>com.lc.ibps.parent</groupId>  -->
+      <!--   <artifactId>ibps-starter-parent</artifactId>   --> 
+        <!--  <version>3.3.3-LC.RELEASE</version>  -->
+         <!-- <relativePath/>  -->
+   <!-- </parent>   -->
 
     <modules>
     </modules>
