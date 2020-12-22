@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.lc.ibps.bpmn:ibps-bpmn-act:3.3.3-LC.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Program Files/apache-maven-3.6.0/repo/com/lc/ibps/bpmn/ibps-bpmn-act/3.3.3-LC.RELEASE/ibps-bpmn-act-3.3.3-LC.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Program Files/apache-maven-3.6.0/repo/com/lc/ibps/bpmn/ibps-bpmn-act/3.3.3-LC.RELEASE/ibps-bpmn-act-3.3.3-LC.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Program Files/apache-maven-3.6.0/repo/com/lc/ibps/bpmn/ibps-bpmn-act/3.3.3-LC.RELEASE/ibps-bpmn-act-3.3.3-LC.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

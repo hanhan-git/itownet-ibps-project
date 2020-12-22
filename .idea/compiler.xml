@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itownet-ibps-run" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="itownet-ibps-root" target="1.8" />
+      <module name="itownet-ibps-root (1)" target="1.8" />
+      <module name="itownet-ibps-root (2)" target="1.8" />
+      <module name="itownet-ibps-run" target="1.8" />
+      <module name="itownet-ibps-run (1)" target="1.8" />
+      <module name="itownet-ibps-run (2)" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

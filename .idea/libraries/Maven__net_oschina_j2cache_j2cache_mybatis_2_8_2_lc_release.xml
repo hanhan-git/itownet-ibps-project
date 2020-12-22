@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.oschina.j2cache:j2cache-mybatis:2.8.2-lc-release">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Program Files/apache-maven-3.6.0/repo/net/oschina/j2cache/j2cache-mybatis/2.8.2-lc-release/j2cache-mybatis-2.8.2-lc-release.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Program Files/apache-maven-3.6.0/repo/net/oschina/j2cache/j2cache-mybatis/2.8.2-lc-release/j2cache-mybatis-2.8.2-lc-release-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Program Files/apache-maven-3.6.0/repo/net/oschina/j2cache/j2cache-mybatis/2.8.2-lc-release/j2cache-mybatis-2.8.2-lc-release-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

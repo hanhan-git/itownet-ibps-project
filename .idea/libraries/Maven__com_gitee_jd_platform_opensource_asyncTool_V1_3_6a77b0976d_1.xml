@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.gitee.jd-platform-opensource:asyncTool:V1.3-6a77b0976d-1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Program Files/apache-maven-3.6.0/repo/com/gitee/jd-platform-opensource/asyncTool/V1.3-6a77b0976d-1/asyncTool-V1.3-6a77b0976d-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Program Files/apache-maven-3.6.0/repo/com/gitee/jd-platform-opensource/asyncTool/V1.3-6a77b0976d-1/asyncTool-V1.3-6a77b0976d-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Program Files/apache-maven-3.6.0/repo/com/gitee/jd-platform-opensource/asyncTool/V1.3-6a77b0976d-1/asyncTool-V1.3-6a77b0976d-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
